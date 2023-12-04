@@ -115,18 +115,18 @@ Buffs: {
 	}
 
 	MAJ_SparrowTransformationBuff: {
-		// DisplayName: Sparrow
-		// Description: You have become a sparrow
+		// DisplayName: Воробей
+		// Description: Теперь вы ворбушек!
 	}
 
 	MAJ_OtterronMountBuff: {
-		// DisplayName: Otter Dragon
-		// Description: They're a great diving companion!
+		// DisplayName: Дракон-выдра
+		// Description: Это отличный компаньон для дайвинга!
 	}
 
 	MAJ_WingedWyvernTransformationBuff: {
-		// Description: Not to be confused with a Wyvern
-		// DisplayName: Winged Wyvern
+		// Description: Не перепутайте с Виверной
+		// DisplayName: Крылатая виверна
 	}
 }
 
@@ -366,51 +366,51 @@ Items: {
 	}
 
 	MAJ_RiceBall: {
-		// DisplayName: Rice Ball
-		// Tooltip: Transforms the bearer into a sparrow
+		// DisplayName: Рисовый шарик
+		// Tooltip: Превращает носителя в воробья
 	}
 
 	MAJ_JewelSalmon: {
-		// DisplayName: Jewel Salmon
-		// Tooltip: Attracts a rideable Otter Dragon
+		// DisplayName: Драгоценный лосось
+		// Tooltip: Привлекает ездового Дракона-выдру
 	}
 
 	MAJ_FieryAmulet: {
-		// Tooltip: Turns the bearer into a winged wyvern
-		// DisplayName: Fiery Amulet
+		// Tooltip: Превращает носителя в крылатую виверну
+		// DisplayName: Пламенный амулет
 	}
 
 	MAJ_PrismFlower: {
-		// DisplayName: Prism Flower
-		// Tooltip: Greatly increases mount speed after moving for a while
+		// DisplayName: Призматический цветок
+		// Tooltip: Значительно увеличивает скорость маунта после некоторого времени с начала его движения
 	}
 
 	MAJ_ShootingStar: {
 		/* Tooltip:
 			'''
-			Greatly increases mount speed after moving for a while
-			Allows mounts to quickly switch direction
+			Значительно увеличивает скорость маунта после начала движения
+			Позволяет маунтам быстро менять направление
 			''' */
-		// DisplayName: Shooting Star
+		// DisplayName: Падающая звезда
 	}
 
 	MAJ_ArcaneDefenseRune: {
-		// DisplayName: Arcane Defense Rune
+		// DisplayName: Таинственная руна защиты
 		/* Tooltip:
 			'''
-			8 defense
-			Mounts do contact damage while not moving fast
+			8 защиты
+			Маунты наносят контактный урон, когда двигаются медленно
 			''' */
 	}
 
 	MAJ_SigilOfPower: {
-		// DisplayName: Sigil of Power
+		// DisplayName: Символ власти
 		/* Tooltip:
 			'''
-			16 defense
-			Mounts do contact damage while not moving fast
-			Ramming enemies will cause an explosion
-			Reduces damage taken by 18% while moving fast
+			16 защиты
+			Маунты наносят контактный урон, когда двигаются медленно
+			Таран врагов вызовает взрыв
+			Уменьшает получаемый урон на 18% при быстром передвижений на маунте
 			''' */
 	}
 }
@@ -425,10 +425,10 @@ Projectiles: {
 	MAJ_OvergrownFlowerHook.DisplayName: Крюк раскидистого цветка
 	MAJ_WeatherOrbInertProjectile.DisplayName: Неактивный погодный шар (Снаряд)
 	StarlingMine.DisplayName: Шахта скворца
-	// MAJ_WyvernFireBall.DisplayName: Wyvern Fire Ball
-	// MAJ_WyvernFireBallExplosion.DisplayName: Wyvern Fire Ball Explosion
-	// MAJ_StarImpact.DisplayName: Star Impact
-	// MAJ_MountWeatherOrb.DisplayName: Weather Orb
+	// MAJ_WyvernFireBall.DisplayName: Огненный шар Виверны
+	// MAJ_WyvernFireBallExplosion.DisplayName: Взрыв огненного шара Виверны
+	// MAJ_StarImpact.DisplayName: Звездный удар
+	// MAJ_MountWeatherOrb.DisplayName: Погодная сфера
 }
 
 Configs: {
