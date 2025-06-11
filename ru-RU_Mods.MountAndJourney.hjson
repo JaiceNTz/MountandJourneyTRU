@@ -445,15 +445,15 @@ Configs: {
 		}
 
 		UsePillarMountGlyphs: {
-			// Label: Pillar mount glyph visuals
-			// Tooltip: Enables/disables the glowing glyph displayed behind the pillar mounts
+			Label: Визуальные эффекты глифов для крепления на колонне
+			Tooltip: Включает/выключает светящийся символ, отображаемый за стойками крепления
 		}
 
 		MountDashKeybindOnly: {
-			// Label: Disable mount dashing with double tap
-			// Tooltip: Mounts will only dash with the Mount Dash keybind.
+			Label: Отключить рывок маунта двойным нажатием
+			Tooltip: Маунты будут перемещаться только с помощью привязки клавиш Mount Dash.
 		}
 	}
 }
 
-// "Keybinds.Mount Dash.DisplayName": Mount Dash
+"Keybinds.Mount Dash.DisplayName": Mount Dash
