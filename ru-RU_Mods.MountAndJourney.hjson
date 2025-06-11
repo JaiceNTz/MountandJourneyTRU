@@ -443,5 +443,17 @@ Configs: {
 				Обратите внимание, что это отключит некоторые анимации
 				'''
 		}
+
+		UsePillarMountGlyphs: {
+			// Label: Pillar mount glyph visuals
+			// Tooltip: Enables/disables the glowing glyph displayed behind the pillar mounts
+		}
+
+		MountDashKeybindOnly: {
+			// Label: Disable mount dashing with double tap
+			// Tooltip: Mounts will only dash with the Mount Dash keybind.
+		}
 	}
 }
+
+// "Keybinds.Mount Dash.DisplayName": Mount Dash
